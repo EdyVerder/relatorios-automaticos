@@ -1,0 +1,6 @@
+{
+  "assunto": "Títulos a pagar vencidos e a vencer",
+  "remetente": "relatorios@exemplo.com.br",
+  "para": ["financeiro@exemplo.com.br"],
+  "copia": ["controladoria@exemplo.com.br"]
+}
